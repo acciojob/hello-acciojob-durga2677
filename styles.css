@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+      /* Style for the main element */
+      main.accio#job {
+        width: 150px;
+        height: 150px;
+        background-color: black;
+      }
+      
+      /* Style for the paragraph element inside main */
+      main.accio#job p.hello-accio {
+        color: white;
+        margin-left: 32px;
+        padding: 10px;
+      }
+
